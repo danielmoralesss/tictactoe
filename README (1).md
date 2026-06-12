@@ -1,4 +1,4 @@
-# 🎮 TicTacToe Unison - Multiplayer (Flutter)
+﻿# 🎮 TicTacToe Unison - Multiplayer (Flutter)
 
 Aplicación móvil desarrollada en **Flutter** para un TicTacToe avanzado con modos cooperativos, tablero dinámico y lógica en tiempo real usando Firebase.
 
@@ -24,8 +24,9 @@ Aplicación móvil desarrollada en **Flutter** para un TicTacToe avanzado con mo
 
 ## 👨‍💻 Autores
 
-- Daniel Morales
-- Dilan Bañuelos
+- Vallejo Leyva Marcos
+- Casas Gastelum Ana Cecilia
+- Murillo Monga Joshua David
 
 ---
 
@@ -177,11 +178,11 @@ lib/
 <tr>
 <td align="center">
 <b>Instalación</b><br><br>
-<img src="assets/images/inst_1.jpeg" width="220" alt="Instalación"/>
+<img src="assets/tictactoe/inst_1.jpg" width="220" alt="Instalación"/>
 </td>
 <td align="center">
 <b>Instalación</b><br><br>
-<img src="assets/images/inst_2.jpeg" width="220" alt="Instalación"/>
+<img src="assets/tictactoe/insta_acabo.jpg" width="220" alt="Instalación"/>
 </td>
 </tr>
 </table>
@@ -194,11 +195,15 @@ lib/
 <tr>
 <td align="center">
 <b>Login Screen</b><br><br>
-<img src="assets/images/login.jpeg" width="220" alt="Login Screen"/>
+<img src="assets/tictactoe/login_screen.jpg" width="220" alt="Login Screen"/>
+</td>
+<td align="center">
+<b>Login Screen</b><br><br>
+<img src="assets/tictactoe/login_2.jpg" width="220" alt="Login Screen"/>
 </td>
 <td align="center">
 <b>Create Profile Screen</b><br><br>
-<img src="assets/images/create_profile.jpeg" width="220" alt="Create Profile Screen"/>
+<img src="assets/tictactoe/create_profile.jpg" width="220" alt="Create Profile Screen"/>
 </td>
 </tr>
 </table>
@@ -209,11 +214,11 @@ lib/
 <tr>
 <td align="center">
 <b>Modos de juego</b><br><br>
-<img src="assets/images/Modo_1.jpeg" width="220" alt="Modos de juego"/>
+<img src="assets/tictactoe/home.jpg" width="220" alt="Modos de juego"/>
 </td>
 <td align="center">
 <b>Modo Clasico</b><br><br>
-<img src="assets/images/Modo_1.1.jpeg" width="220" alt="Modo Clasico"/>
+<img src="assets/tictactoe/clasico_1.jpg" width="220" alt="Modo Clasico"/>
 </td>
 </tr>
 </table>
@@ -224,11 +229,11 @@ lib/
 <tr>
 <td align="center">
 <b>Modo Clasico</b><br><br>
-<img src="assets/images/Modo_1.2.jpeg" width="220" alt="Modo Clasico"/>
+<img src="assets/tictactoe/clasico_2.jpg" width="220" alt="Modo Clasico"/>
 </td>
 <td align="center">
 <b>Modo Clasico</b><br><br>
-<img src="assets/images/Modo_1.3.jpeg" width="220" alt="Modo Clasico"/>
+<img src="assets/tictactoe/clasico_3.jpg" width="220" alt="Modo Clasico"/>
 </td>
 </tr>
 </table>
@@ -238,16 +243,17 @@ lib/
 <table>
 <tr>
 <td align="center">
-<b>Modo Multi</b><br><br>
-<img src="assets/images/Modo_2.jpeg" width="220" alt="Modo Clasico"/>
+<b>Modo Clasico</b><br><br>
+<img src="assets/tictactoe/clasico_5.jpg" width="220" alt="Modo Clasico"/>
 </td>
 <td align="center">
-<b>Modo Multi</b><br><br>
-<img src="assets/images/Modo_2.1.jpeg" width="220" alt="Modo Clasico"/>
+<b>Modo Clasico</b><br><br>
+<img src="assets/tictactoe/clasico_curso.jpg" width="220" alt="Modo Clasico"/>
+</td>
 </td>
 <td align="center">
 <b>Resultado modo clasico</b><br><br>
-<img src="assets/images/Modo_2.2.jpeg" width="220" alt="Resultado modo clasico"/>
+<img src="assets/tictactoe/result_clasic.jpg" width="220" alt="Resultado modo clasico"/>
 </td>
 </tr>
 </table>
@@ -257,8 +263,65 @@ lib/
 <table>
 <tr>
 <td align="center">
-<b>Modo Multi</b><br><br>
-<img src="assets/images/Modo_2.3.jpeg" width="220" alt="Modos de juego"/>
+<b>Modos de juego</b><br><br>
+<img src="assets/tictactoe/multi_1.jpg" width="220" alt="Modos de juego"/>
+</td>
+<td align="center">
+<b>Modo 4 players</b><br><br>
+<img src="assets/tictactoe/multi_2.jpg" width="220" alt="Modo 4 players"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<b>Modo 4 players</b><br><br>
+<img src="assets/tictactoe/multi_4.jpg" width="220" alt="Modo 4 players"/>
+</td>
+<td align="center">
+<b>Modo 4 players</b><br><br>
+<img src="assets/tictactoe/multi_3.jpg" width="220" alt="Modo 4 players"/>
+</td>
+<td align="center">
+<b>Resultado modo 4 players</b><br><br>
+<img src="assets/tictactoe/result_multi.jpg" width="220" alt="Resultado modo 4 players"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<b>Modos de juego</b><br><br>
+<img src="assets/tictactoe/rotativo_1.jpg" width="220" alt="Modos de juego"/>
+</td>
+<td align="center">
+<b>Modo Rotativo</b><br><br>
+<img src="assets/tictactoe/rotativo_2.jpg" width="220" alt="Modo Rotativo"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<b>Modo Rotativo</b><br><br>
+<img src="assets/tictactoe/rotativo_3.jpg" width="220" alt="Modo Rotativo"/>
+</td>
+<td align="center">
+<b>Modo Rotativo</b><br><br>
+<img src="assets/tictactoe/rotativo_4.jpg" width="220" alt="Modo Rotativo"/>
+</td>
+<td align="center">
+<b>Resultado modo rotativo</b><br><br>
+<img src="assets/tictactoe/result_rotativo.jpg" width="220" alt="Resultado modo rotativo"/>
 </td>
 </tr>
 </table>
@@ -271,7 +334,7 @@ lib/
 <tr>
 <td align="center">
 <b>Ranking</b><br><br>
-<img src="assets/images/ranking.jpeg" width="220" alt="Ranking"/>
+<img src="assets/tictactoe/ranking.jpg" width="220" alt="Ranking"/>
 </tr>
 </table>
 </div>
@@ -307,3 +370,9 @@ build/app/outputs/flutter-apk/app-release.apk
 - ✅ Repositorios con lógica de partida, resultados e historial
 
 ---
+
+## 📝 Notas adicionales
+
+- El nombre interno de la app es `TicTacToe Unison`.
+- El estilo visual está inspirado en UI oscura y neón con componentes `ObsidianCard` y `AppBackground`.
+- Gestión de estado centralizada con Provider + repositorios.
