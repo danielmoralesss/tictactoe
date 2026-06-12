@@ -209,11 +209,11 @@ lib/
 <tr>
 <td align="center">
 <b>Modos de juego</b><br><br>
-<img src="assets/images/Modo_1.jpeg" width="220" alt="Modos de juego"/>
+<img src="assets/images/modo_1.jpeg" width="220" alt="Modos de juego"/>
 </td>
 <td align="center">
 <b>Modo Clasico</b><br><br>
-<img src="assets/images/Modo_1.1.jpeg" width="220" alt="Modo Clasico"/>
+<img src="assets/images/modo_1.1.jpeg" width="220" alt="Modo Clasico"/>
 </td>
 </tr>
 </table>
@@ -224,11 +224,11 @@ lib/
 <tr>
 <td align="center">
 <b>Modo Clasico</b><br><br>
-<img src="assets/images/Modo_1.2.jpeg" width="220" alt="Modo Clasico"/>
+<img src="assets/images/modo_1.2.jpeg" width="220" alt="Modo Clasico"/>
 </td>
 <td align="center">
 <b>Modo Clasico</b><br><br>
-<img src="assets/images/Modo_1.3.jpeg" width="220" alt="Modo Clasico"/>
+<img src="assets/images/modo_1.3.jpeg" width="220" alt="Modo Clasico"/>
 </td>
 </tr>
 </table>
@@ -239,15 +239,15 @@ lib/
 <tr>
 <td align="center">
 <b>Modo Multi</b><br><br>
-<img src="assets/images/Modo_2.jpeg" width="220" alt="Modo Clasico"/>
+<img src="assets/images/modo_2.jpeg" width="220" alt="Modo Clasico"/>
 </td>
 <td align="center">
 <b>Modo Multi</b><br><br>
-<img src="assets/images/Modo_2.1.jpeg" width="220" alt="Modo Clasico"/>
+<img src="assets/images/modo_2.1.jpeg" width="220" alt="Modo Clasico"/>
 </td>
 <td align="center">
-<b>Resultado modo clasico</b><br><br>
-<img src="assets/images/Modo_2.2.jpeg" width="220" alt="Resultado modo clasico"/>
+<b>Modo Multi</b><br><br>
+<img src="assets/images/modo_2.2.jpeg" width="220" alt="Resultado modo clasico"/>
 </td>
 </tr>
 </table>
@@ -258,7 +258,7 @@ lib/
 <tr>
 <td align="center">
 <b>Modo Multi</b><br><br>
-<img src="assets/images/Modo_2.3.jpeg" width="220" alt="Modos de juego"/>
+<img src="assets/images/modo_2.3.jpeg" width="220" alt="Modos de juego"/>
 </td>
 </tr>
 </table>
@@ -271,7 +271,7 @@ lib/
 <tr>
 <td align="center">
 <b>Ranking</b><br><br>
-<img src="assets/images/ranking.jpeg" width="220" alt="Ranking"/>
+<img src="assets/images/Ranking.jpeg" width="220" alt="Ranking"/>
 </tr>
 </table>
 </div>
